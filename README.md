@@ -1,19 +1,17 @@
 This is the implementation of the DRHT paper. The project page can be found here:
-https://ybsong00.github.io/cvpr18_imgcorrect/index.html
+<p>https://ybsong00.github.io/cvpr18_imgcorrect/index.html</p>
 
 Because of the size limit we put ldr2hdr model eslewhere at 
-
-https://drive.google.com/open?id=138JfKA5QzjDu78PLf6Ih9t5Qh2bBMvhI. 
-
+<p>https://drive.google.com/open?id=138JfKA5QzjDu78PLf6Ih9t5Qh2bBMvhI. </p> 
 You need to download it at first and put it under checkpoint folder.
 
 The illustration of the files and folders.
 
-</p>############### folders ################</p>
-</p>checkpoint      ---         pre-trained models</p>
-input           ---         input ldr images
-hdr_output      ---         hdr files
-samples         ---         ldr results
+<p>############### folders ################</p>
+<p>checkpoint      ---         pre-trained models</p>
+<p>input           ---         input ldr images</p>
+<p>hdr_output      ---         hdr files</p>
+<p>samples         ---         ldr results</p>
 
 ############### .py files ################
 ldr2hdr.py and hdr2ldr.py define the ldr2hdr and hdr2ldr networks respectively, and 
