@@ -1,8 +1,8 @@
 This is the implementation of the DRHT paper. The project page can be found here:
-
 https://ybsong00.github.io/cvpr18_imgcorrect/index.html
 
 Because of the size limit we put ldr2hdr model eslewhere at 
+
 https://drive.google.com/open?id=138JfKA5QzjDu78PLf6Ih9t5Qh2bBMvhI. 
 
 You need to download it at first and put it right under checkpoint folder.
