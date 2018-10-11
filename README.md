@@ -13,13 +13,13 @@ The illustration of the files and folders.
 <p>hdr_output      ---         hdr files</p>
 <p>samples         ---         ldr results</p>
 
-############### .py files ################
-ldr2hdr.py and hdr2ldr.py define the ldr2hdr and hdr2ldr networks respectively, and 
-ldr2hdr_test.py and hdr2ldr_test.py provide simple evaluation.
+<p>############### .py files ################</p>
+<p>ldr2hdr.py and hdr2ldr.py define the ldr2hdr and hdr2ldr networks, respectively.</p>
+<p>ldr2hdr_test.py and hdr2ldr_test.py provide simple evaluation.</p>
 
-############### notes ################
-1. The ldr2hdr part is based on the Siggraph Asia 17 paper "HDR image reconstruction from a single exposure using deep CNNs".
-2. The hdr2ldr part performs better when using large batch_size. 
+<p>############### notes ################</p>
+<p>1. The ldr2hdr part is based on the Siggraph Asia 17 paper "HDR image reconstruction from a single exposure using deep CNNs".</p>
+<p>2. The hdr2ldr part performs better when using large batch_size.</p>
 
 <p>If you find the code useful, please cite our paper:</p>
 
