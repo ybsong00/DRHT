@@ -9,8 +9,8 @@ You need to download it at first and put it under checkpoint folder.
 
 The illustration of the files and folders.
 
-############### folders ################
-checkpoint      ---         pre-trained models
+</p>############### folders ################</p>
+</p>checkpoint      ---         pre-trained models</p>
 input           ---         input ldr images
 hdr_output      ---         hdr files
 samples         ---         ldr results
