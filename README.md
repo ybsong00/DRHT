@@ -5,7 +5,7 @@ Because of the size limit we put ldr2hdr model eslewhere at
 
 https://drive.google.com/open?id=138JfKA5QzjDu78PLf6Ih9t5Qh2bBMvhI. 
 
-You need to download it at first and put it right under checkpoint folder.
+You need to download it at first and put it under checkpoint folder.
 
 The illustration of the files and folders.
 ############### folders ################
