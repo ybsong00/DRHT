@@ -8,11 +8,13 @@ https://drive.google.com/open?id=138JfKA5QzjDu78PLf6Ih9t5Qh2bBMvhI.
 You need to download it at first and put it under checkpoint folder.
 
 The illustration of the files and folders.
+
 ############### folders ################
 checkpoint      ---         pre-trained models
 input           ---         input ldr images
 hdr_output      ---         hdr files
 samples         ---         ldr results
+
 ############### .py files ################
 ldr2hdr.py and hdr2ldr.py define the ldr2hdr and hdr2ldr networks respectively, and 
 ldr2hdr_test.py and hdr2ldr_test.py provide simple evaluation.
